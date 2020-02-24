@@ -4,14 +4,17 @@
 
 This repository contains examples for quarkus rest and apache tika
 
-Requirements
+#Requirements 
+
 Java - 1.8.x
 Maven - 3.x.x
 
-Exploring the Rest APIs
-The application defines following REST APIs
+#Exploring the Rest APIs 
+
+#The application defines following REST APIs
 
 GET /posts - Get All Posts
 
-Running integration tests
+#Running integration tests 
+
 The project also contains integration tests for all the Rest APIs. For running the integration tests, go to the root directory of the project and type mvn test in your terminal.
