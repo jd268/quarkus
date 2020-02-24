@@ -13,7 +13,8 @@ Maven - 3.x.x
 
 ## The application defines following REST APIs
 
-GET /posts - Get All Posts
+GET /order - Get All Posts
+POST /order - Save a Post
 
 ## Running integration tests 
 
