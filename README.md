@@ -1,4 +1,5 @@
 
 
 # Quarkus - Supersonic Subatomic Java
-Example for quarkus panache and apache tika
+
+This repository contains examples for quarkus rest and apache tika
